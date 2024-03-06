@@ -1,3 +1,2 @@
 this is my first file
-
-this is example of git
+this example of git
